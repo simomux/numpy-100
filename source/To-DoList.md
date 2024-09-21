@@ -15,12 +15,12 @@ Exercises from this repo suggested by my professor:
 - [X] 19 Create a 8x8 matrix and fill it with a checkerboard pattern (★☆☆)
 - [X] 20 Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element? (★☆☆)
 - [X] 22 Normalize a 5x5 random matrix (★☆☆)
-- [ ] 24
-- [ ] 25
-- [ ] 29
-- [ ] 36
-- [ ] 37
-- [ ] 39
-- [ ] 40
-- [ ] 42
-- [ ] 45
+- [ ] 24 Multiply a 5x3 matrix by a 3x2 matrix (real matrix product) (★☆☆)
+- [ ] 25 Given a 1D array, negate all elements which are between 3 and 8, in place. (★☆☆)
+- [ ] 29 How to round away from zero a float array ? (★☆☆)
+- [ ] 36 Extract the integer part of a random array of positive numbers using 4 different methods (★★☆)
+- [ ] 37 Create a 5x5 matrix with row values ranging from 0 to 4 (★★☆)
+- [ ] 39 Create a vector of size 10 with values ranging from 0 to 1, both excluded (★★☆)
+- [ ] 40 Create a random vector of size 10 and sort it (★★☆)
+- [ ] 42 Consider two random array A and B, check if they are equal (★★☆)
+- [ ] 45 Create random vector of size 10 and replace the maximum value by 0 (★★☆)
